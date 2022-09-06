@@ -16,7 +16,8 @@ We can increase or decrease the resources easily.
  - Hosting of Web Services
  - Sharing Codes Repo like Github
  - Value for Small Company
- - 
+ 
+ 
 ### Compute Optimized
 1. Its used for those servers which contains high load
 **For Example**
