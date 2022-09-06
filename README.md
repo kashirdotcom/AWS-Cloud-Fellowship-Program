@@ -7,3 +7,4 @@ Fellowship Program at Bytewise Limited
 3. [Lets Start Learning AWS Cloud Practitioner](https://github.com/kashirdotcom/AWS-Cloud-Fellowship-Program/blob/main/Month%231/Week%231/Lets%20Start%20Learning%20AWS%20Cloud%20Practitioner.md)
 
 ### Week 2
+1. [Amazon EC2](https://github.com/kashirdotcom/AWS-Cloud-Fellowship-Program/blob/main/Month%231/Week%232/Amazon%20EC2%20(Introduction%2C%20Types%2C%20Scaling%2C%20Auto%20Scaling).md)
