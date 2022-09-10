@@ -7,12 +7,8 @@ its an automated services used deploying and scaling web applications and servic
 
 ## How its work?
 We can only upload the code and the Elastic Beanstalk can automatically deploy the Application from its own, Its the free service we can only pay for the resources we used
-### Handles the following services
-- deployment
-- capacity provisioning
-- load balancing
-- auto-scaling to application 
-- health monitoring
+
+
 
 ## Languages that its support
 - .Net
@@ -23,8 +19,15 @@ We can only upload the code and the Elastic Beanstalk can automatically deploy t
 - Containerization (Docker)
 
 ## Benifits
-1. Fast and simple to begin
-2. Developer productivity
-3. Impossible to outgrow
-4. Complete resource control
- 
+**1. Fast and simple to begin
+- deployment
+- capacity provisioning
+- load balancing
+- auto-scaling to application 
+- health monitoring
+**2. Developer productivity
+- focus on writing code rather than spending time managing and configuring servers, databases, load balancers, firewalls, and networks.
+**3. Impossible to outgrow
+- automatically scales your application up and down based on your application's specific need using easily adjustable Auto Scaling settings.
+**4. Complete resource control
+ - retain full control over the AWS resources powering your application
