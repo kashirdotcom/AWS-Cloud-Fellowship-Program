@@ -28,7 +28,9 @@ We can only upload the code and the Elastic Beanstalk can automatically deploy t
 
 **2.Developer productivity**
 - focus on writing code rather than spending time managing and configuring servers, databases, load balancers, firewalls, and networks.
-**3. Impossible to outgrow**
+
+**3.Impossible to outgrow**
 - automatically scales your application up and down based on your application's specific need using easily adjustable Auto Scaling settings.
+
 **4.Complete resource control**
  - retain full control over the AWS resources powering your application
