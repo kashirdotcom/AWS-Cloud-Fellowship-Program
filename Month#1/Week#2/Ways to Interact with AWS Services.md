@@ -24,3 +24,33 @@ A web based GUI, providing the ability to interact with the AWS services. We cou
 
 
 ## AWS CLI
+CLI alows us to manage the AWS environment using a terminal rather than a graphical interface, which is more quicker and easier. We can also create a script that contains all the commands to interact with different sercvices, So a single script can perform multiple actions. All AWS CLI commands start with aws keyword 
+
+### For Example
+- aws EC2
+aws ec2 create-volume \
+    --volume-type gp2 \
+    --size 80 \
+    --availability-zone us-east-1a
+    
+## AWS SDK's
+
+AWS provides a number of Software Development Kits (SDKs) that allows interaction with the platform via code. SDKs are available for all the major programming languages, including:
+
+    - Java
+    - Python
+    - Node.JS/ React.Js
+    - Go.
+    - Php
+    
+ ## Cloudformation
+1. Uses for the IaaS (Infrasturucture as the Service)
+2. Cloudformation is the way to go if we want to define the desired infrastructure within AWS, quickly and in a repeatable manner.
+
+### Advantages
+- Extremely flexible and powerful
+- Infrastructure defined as code
+
+
+
+
