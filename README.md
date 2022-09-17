@@ -14,5 +14,7 @@ Fellowship Program at Bytewise Limited
 5. [Ways to Interact with AWS Services](https://github.com/kashirdotcom/AWS-Cloud-Fellowship-Program/blob/main/Month%231/Week%232/Ways%20to%20Interact%20with%20AWS%20Services.md)
 
 ### Week 3
+1. [Instance Stores and Amazon EBS](https://github.com/kashirdotcom/AWS-Cloud-Fellowship-Program/blob/main/Month%231/Week%233/Instance%20Stores%20and%20Amazon%20EBS.md)
+2. [Amazon EBS,S3, RDS and EFS](https://github.com/kashirdotcom/AWS-Cloud-Fellowship-Program/blob/main/Month%231/Week%233/Amazon%20EBS%2CS3%2C%20RDS%20and%20EFS.md)
 
 
