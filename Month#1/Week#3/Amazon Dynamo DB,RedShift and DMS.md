@@ -64,3 +64,16 @@
 | Uses AWS IAM, KMS(WS KMS (Key Management Service) encryption keys ensure DynamoDB security. The KMS allows creating, storing, and managing the encryption keys. There are three options for the users to encrypt the tables with DynamoDB.) for Securtity | Uses AWS KMS (The users can also use SSL to enhance the security of data.)| 
 
 
+# Amazon Redshift
+Its is a fully managed data warehouse service in the cloud. Its datasets range from 100s of gigabytes to a petabyte. The initial process to create a data warehouse is to launch a set of compute resources called nodes, which are organized into groups called cluster. After that you can process your queries.
+
+## Features of Amazon Redshift
+
+- Supports VPC − The users can launch Redshift within VPC and control access to the cluster through the virtual networking environment.
+- Encryption − Data stored in Redshift can be encrypted and configured while creating tables in Redshift.
+- SSL − SSL encryption is used to encrypt connections between clients and Redshift.
+- Scalable − With a few simple clicks, the number of nodes can be easily scaled in your Redshift data warehouse as per requirement. It also allows to scale over storage capacity without any loss in performance.
+- Cost-effective − Amazon Redshift is a cost-effective alternative to traditional data warehousing practices. There are no up-front costs, no long-term commitments and on-demand pricing structure.
+    
+    
+  # Amazon Database Migration Service
