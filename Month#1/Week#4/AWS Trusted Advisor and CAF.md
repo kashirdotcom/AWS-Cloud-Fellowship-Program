@@ -46,17 +46,19 @@ https://aws.amazon.com/professional-services/CAF/
 -  Operations
 
 ## Benifist of AWS CAF
-### 1. Reduce business risk
+#### 1. Reduce business risk
 Lower your risk profile through improved reliability, increased performance, and enhanced security.
-### 2. Improve environmental, social, and governance performance
+#### 2. Improve environmental, social, and governance performance
 Leverage insights to improve sustainability and corporate transparency.
-### 3. Grow revenue
+#### 3. Grow revenue
 Create new products and services, reach new customers, and enter new market segments.
-### 4. Increase operational efficiency
+#### 4. Increase operational efficiency
 Reduce operating costs, increase productivity, and improve employee and customer experience.
 
 ## How its Work
-
-
+1. Identify and prioritize transformation opportunities
+2. Identify capability gaps and cross-organizational dependencies. 
+3. Deliver pilots in production and demonstrate incremental business value
+4. Expand pilots and business value to desired scale and ensure that the business benefits associated with your cloud investments are realized and sustained.
 
 
