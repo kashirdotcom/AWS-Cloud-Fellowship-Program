@@ -77,3 +77,19 @@ Its is a fully managed data warehouse service in the cloud. Its datasets range f
     
     
   # Amazon Database Migration Service
+- Migrate Your operational Database securely and Quickly
+- Supports all type of Database
+## Benifits of Amazon DMS
+1. **Simple to use** -- No Need to Install Drivers or any Software,You can also use this service for continuous data replication with the same simplicity.
+
+3. **Minimal downtime** -- While Migration their is no downtime of the Database, Fully Operation during migration.
+4. **Supports widely used databases** -- Supports all type of database such as MYSQL, NoSql, MariaDb etc.
+5. **Low cost** - Low Migration Cost
+6. **On-going replication** -- An on-going replication task keeps your source and target databases in sync. Once set up, the on-going replication task will continuously apply source changes to the target with minimal latency.
+7. **Reliable** -- It is highly resilient and self–healing. It continually monitors source and target databases, network connectivity, and the replication instance.
+
+### Homogeneous and Heterogeneous migrations
+#### homogeneous Migration
+When the source and target database are the same
+#### Heterogeneous migration
+When the databases are different its the hetrogenous migration
