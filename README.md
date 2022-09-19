@@ -16,5 +16,10 @@ Fellowship Program at Bytewise Limited
 ### Week 3
 1. [Instance Stores and Amazon EBS](https://github.com/kashirdotcom/AWS-Cloud-Fellowship-Program/blob/main/Month%231/Week%233/Instance%20Stores%20and%20Amazon%20EBS.md)
 2. [Amazon EBS,S3, RDS and EFS](https://github.com/kashirdotcom/AWS-Cloud-Fellowship-Program/blob/main/Month%231/Week%233/Amazon%20EBS%2CS3%2C%20RDS%20and%20EFS.md)
+3. [Amazon Dynamo DB,Dynamo DB vs RDS, RedShift, DMS](https://github.com/kashirdotcom/AWS-Cloud-Fellowship-Program/blob/main/Month%231/Week%233/Amazon%20Dynamo%20DB%2CRedShift%20and%20DMS.md)
+4. [Amazon Shared Responsibility Model, DDOS, KMS,WAF](https://github.com/kashirdotcom/AWS-Cloud-Fellowship-Program/blob/main/Month%231/Week%233/Amazon%20Shared%20Responsibility%20Model%2C%20DDOS%2C%20KMS%2CWAF%20.md)
+5. [Amazon CloudWatch and CloudTrail](https://github.com/kashirdotcom/AWS-Cloud-Fellowship-Program/blob/main/Month%231/Week%233/Amazon%20CloudWatch%20and%20CloudTrail.md)
 
+### Week 4
+1. [AWS Trusted Advisor and CAF](https://github.com/kashirdotcom/AWS-Cloud-Fellowship-Program/blob/main/Month%231/Week%234/AWS%20Trusted%20Advisor%20and%20CAF.md)
 
