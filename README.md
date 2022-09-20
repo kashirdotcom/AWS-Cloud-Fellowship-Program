@@ -22,4 +22,5 @@ Fellowship Program at Bytewise Limited
 
 ### Week 4
 1. [AWS Trusted Advisor and CAF](https://github.com/kashirdotcom/AWS-Cloud-Fellowship-Program/blob/main/Month%231/Week%234/AWS%20Trusted%20Advisor%20and%20CAF.md)
+2. [AWS Migration Strategies, Snow Family](https://github.com/kashirdotcom/AWS-Cloud-Fellowship-Program/blob/main/Month%231/Week%234/AWS%20Migration%20Strategies%2C%20Snow%20Family.md)
 
