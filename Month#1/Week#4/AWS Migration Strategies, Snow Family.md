@@ -34,3 +34,31 @@ Didnot migrated the Updgraded System,or not inclined to migrate some application
 
 
 #  AWS Snow Family
+https://aws.amazon.com/snow/
+
+## Defination
+Its the collection of physical devices that help migrate large amounts of data into and out of the cloud without depending on networks. This helps you apply the wide variety of AWS services for analytics, file systems, and archives to your data.
+
+## Features of AWS Snow Family
+- **Simple management and monitoring** - 
+AWS OpsHub is a complimentary graphical user interface (GUI) available to makes it easy to setup and manage Snow devices
+- **NFS endpoint** - 
+Easily use Snow devices with your existing on-premises servers and file-based applications.
+- **On-board computing** - 
+Snow Family devices have computing resources to collect and process data at the edge support for the AWS IOT
+- **Encryption** 
+1. Encrypted with 256-bit encryption keys 
+2. Managed by the AWS Key Management Service (KMS).
+3. Keys are Never stored on the device.
+- **Anti-tamper & Tamper-evident**  
+1. Trusted Platform Module (TPM) that provides a hardware root of trust.
+2.  Each device is inspected after each use to ensure the integrity of the device and helps preserve the confidentiality of your data.
+- **End-to-end tracking**   
+Each device uses an E-Ink shipping label for easy tracking and automatic label updates for return shipping using 
+1. Amazon Simple Notification Service (SNS)
+2. Text messages
+3. AWS Console.
+- **Secure erasure** -
+Once the data migration job is complete and verified, AWS performs a software erasure of the device that follows the National Institute of Standards and Technology (NIST) guidelines for media sanitization.
+
+## AWS Snow Family service models
