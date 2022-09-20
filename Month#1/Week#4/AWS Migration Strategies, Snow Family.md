@@ -62,3 +62,19 @@ Each device uses an E-Ink shipping label for easy tracking and automatic label u
 Once the data migration job is complete and verified, AWS performs a software erasure of the device that follows the National Institute of Standards and Technology (NIST) guidelines for media sanitization.
 
 ## AWS Snow Family service models
+Three type of Service Models
+- AWS Snowcone
+1. most compact and portable device
+2. Its ruggedized, secure, and purpose-built for use outside of a traditional data center.
+- AWS Snowball
+1. Availble as a Compute Optimized device or a Storage Optimized device.
+2. All devices are suited for extreme conditions, tamper proof, and highly secure.
+- AWS Snowmobile
+1. Its an Exabyte-scale data migration device used to move extremely large amounts of data to AWS.
+2. Migrate up to 100PB in a 45-foot long ruggedized shipping container, pulled by a semi-trailer truck.
+
+
+## Features Comparision
+![image](https://user-images.githubusercontent.com/43639867/191267553-93f8a21d-fe46-4701-a68e-69fd114d560a.png)
+
+
