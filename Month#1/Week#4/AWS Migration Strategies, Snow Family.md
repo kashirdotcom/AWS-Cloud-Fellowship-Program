@@ -16,7 +16,8 @@ If there any Problem occurs its resolved automatically.
 3.  Proof of Concept (POC) for AWS Storage - test your workload and understand about AWS Storage Service, their benefits, limitations, and the necessary security controls.
 4.  Application Migration to AWS - Restoring the Backup, Import of the Export Data
 5.  Enterprise Cloud Operations - System Maintainence and Updation Held at the AWS for 24/7.
-6.  
+
+
 ## 6 Different Strategies The 6's R
 1. Rehosting - **lift-and-shift.**
 2. Replatforming  - **lift-tinker-and-shift**
