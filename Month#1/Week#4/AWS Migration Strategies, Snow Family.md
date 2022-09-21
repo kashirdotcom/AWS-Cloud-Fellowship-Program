@@ -1,5 +1,22 @@
 # AWS Migration Stratagies
 https://aws.amazon.com/blogs/enterprise-strategy/6-strategies-for-migrating-applications-to-the-cloud/
+## Defination
+Migartion means moving your data from your local computer to the data center or moving data from the cloud provider to other cloud provider.
+## Where Migration is needed!
+- Your project has started receiving a high volume of traffic overnight
+- Your clients want fast application implementation and deployment
+- It’s becoming expensive to manage the growing database needs
+- You are cautious about the mishap of data center going down
+
+If there any Problem occurs its resolved automatically.
+
+## Different Phases of Miration
+1. Discovery - Apps which will moved to the client
+2.  Assessment - Choosing the Migration Method
+3.  Proof of Concept (POC) for AWS Storage - test your workload and understand about AWS Storage Service, their benefits, limitations, and the necessary security controls.
+4.  Application Migration to AWS - Restoring the Backup, Import of the Export Data
+5.  Enterprise Cloud Operations - System Maintainence and Updation Held at the AWS for 24/7.
+6.  
 ## 6 Different Strategies The 6's R
 1. Rehosting - **lift-and-shift.**
 2. Replatforming  - **lift-tinker-and-shift**
@@ -27,10 +44,10 @@ For Example
 - Most expensive pattern, but, if you have a good product-market fit, it can also be the most beneficial.
 
 ## Retire
-Closing the Infrastructure the System
+AWS Migration you can differentiate between useful and use less resources. Hence, you cut off all the resources that are no longer useful to the business and build a strategy around the new resources. This will cut down the extra cost.
 
 ## Retain
-Didnot migrated the Updgraded System,or not inclined to migrate some applications
+Building a strategy to retain those applications, which, according to your business model are yet not ready to be migrated to the cloud or the applications that were upgraded recently.s
 
 
 #  AWS Snow Family
