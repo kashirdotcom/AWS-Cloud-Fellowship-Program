@@ -26,7 +26,7 @@ Fellowship Program at Bytewise Limited
 3. [What is AWS Well-Architecture Framework?](https://github.com/kashirdotcom/AWS-Cloud-Fellowship-Program/blob/main/Month%231/Week%234/What%20is%20AWS%20Well-Architecture%20Framework.md)
 4. [Describe Extensively along with benefits of AWS Well-Architected Framework](https://github.com/kashirdotcom/AWS-Cloud-Fellowship-Program/blob/main/Month%231/Week%234/Describe%20Extensively%20along%20with%20benefits%3F.md)
 5. [How can you be innovative on AWS?](https://github.com/kashirdotcom/AWS-Cloud-Fellowship-Program/blob/main/Month%231/Week%234/How%20can%20you%20be%20innovative%20on%20AWS%3F.md)
-6. [Global Networking in AWS](https://github.com/kashirdotcom/AWS-Cloud-Fellowship-Program/blob/main/Month%231/Week%234/Global%20Networking%20in%20AWS.md)
-7. [Subnets and Network Access Control list in general and in context with AWS](https://github.com/kashirdotcom/AWS-Cloud-Fellowship-Program/blob/main/Month%231/Week%234/Subnets%20and%20Network%20Access%20Control%20list%20in%20general%20and%20in%20context%20with%20AWS.md)
+6. [Global Networking in AWS && Subnets and Network Access Control list in general and in context with AWS](https://github.com/kashirdotcom/AWS-Cloud-Fellowship-Program/blob/main/Month%231/Week%234/Global%20Networking%20in%20AWS.md)
+
 
 
