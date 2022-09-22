@@ -25,8 +25,33 @@ continually improve sustainability impacts by reducing energy consumption and in
 
 
 ## Terms Used  in AWS Well-Architected Framework
-1. component
-2. Workload
-3. Architecture
-4. Milestones 
-5. Technology portfolio
+1. **Component**
+- code
+- configuration
+- AWS Resources
+2. **Workload**
+- identify a set of components that together deliver business value.
+-  A workload is usually the level of detail that business and technology leaders communicate about.
+3. **Architecture**
+- how components work together in a workload.
+-  How components communicate and interact is often the focus of architecture diagrams.
+4. **Milestones** 
+- key changes in your architecture as it evolves throughout the product lifecycle
+5. **Technology portfolio**
+- collection of workloads that are required for the business to operate.
+
+## Technology architecture teams**
+- Technical Architect (infrastructure)
+- Solutions Architect (software)
+- Data Architect
+- Networking Architect
+- Security Architect.
+
+### Enterprise Architecture.
+- TOGAF
+- Zachman-Framework
+
+### Best Practice 
+Creating Team and Distributing Work instead of working in the centralized way
+
+## General Design Principles
