@@ -28,5 +28,8 @@ Fellowship Program at Bytewise Limited
 5. [How can you be innovative on AWS?](https://github.com/kashirdotcom/AWS-Cloud-Fellowship-Program/blob/main/Month%231/Week%234/How%20can%20you%20be%20innovative%20on%20AWS%3F.md)
 6. [Global Networking in AWS &  Subnets and Network Access Control list in general and in context with AWS](https://github.com/kashirdotcom/AWS-Cloud-Fellowship-Program/blob/main/Month%231/Week%234/Global%20Networking%20in%20AWS.md)
 
-
+## 2nd Month 
+### Week 1
+1. [Module_1 (Introduction to Amazon Web Services).md
+](https://github.com/kashirdotcom/AWS-Cloud-Fellowship-Program/blob/main/Month%232/aws-cloud-practitioner-essentials/Modules%5CWeeks/Module_1%20(Introduction%20to%20Amazon%20Web%20Services).md)
 
