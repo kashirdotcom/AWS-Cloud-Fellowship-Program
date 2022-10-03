@@ -33,7 +33,7 @@ Reserved Instances : billing discount applied to the use of On-Demand Instances 
 Spot Instances : ideal for workloads with flexible start and end times, or that can withstand interruptions
 Dedicated Hosts : physical servers with Amazon EC2 instance capacity that is fully dedicated to your use. 
 
-## Scaling Amazon EC2 (Part 1)
+## Scaling Amazon EC2
 ### Scalability
 Scalability involves beginning with only the resources you need and designing your architecture to automatically respond to changing demand by scaling out or in. 
 Within Amazon EC2 Auto Scaling, you can use two approaches: dynamic scaling and predictive scaling.
@@ -42,7 +42,7 @@ Dynamic scaling responds to changing demand.
 
 Predictive scaling automatically schedules the right number of Amazon EC2 instances based on predicted demand.
 
-## Elastic Load Balancer
+# Elastic Load Balancer
 
  
  
