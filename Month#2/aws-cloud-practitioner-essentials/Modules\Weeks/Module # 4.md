@@ -28,3 +28,21 @@ It enters into a VPC through an internet gateway. Before a packet can enter into
 ## network access control list (ACL)
 A network access control list (ACL) is a virtual firewall that controls inbound and outbound traffic at the subnet level.
 Each AWS account includes a default network ACL. When configuring your VPC, you can use your account’s default network ACL or create custom network ACLs. 
+
+# Security Group
+The VPC component that checks packet permissions for an Amazon EC2 instance is a security group.
+a security group denies all inbound traffic and allows all outbound traffic. You can add custom rules to configure which traffic to allow or deny.
+
+# Global Networking
+## Domain Name Server
+![image](https://user-images.githubusercontent.com/43639867/193867066-ea46baab-10cd-4674-ad06-9b4203970789.png)
+- When you enter the domain name into your browser, this request is sent to a DNS server. 
+
+- The DNS server asks the web server for the IP address that corresponds to AnyCompany’s website.
+
+- The web server responds by providing the IP address for AnyCompany’s website, 192.0.2.0.
+## Amazon Route 53
+- Amazon Route 53 is a DNS web service. It gives developers and businesses a reliable way to route end users to internet applications hosted in AWS. 
+
+- Amazon Route 53 connects user requests to infrastructure running in AWS (such as Amazon EC2 instances and load balancers). It can route users to infrastructure outside of AWS.
+-  ability to manage the DNS records for domain names. You can register new domain names directly in Route 53. You can also transfer DNS records for existing domain names managed by other domain registrars. This enables you to manage all of your domain names within a single location.
