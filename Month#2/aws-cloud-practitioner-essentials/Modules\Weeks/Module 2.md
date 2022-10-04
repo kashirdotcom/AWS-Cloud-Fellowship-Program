@@ -43,6 +43,46 @@ Dynamic scaling responds to changing demand.
 Predictive scaling automatically schedules the right number of Amazon EC2 instances based on predicted demand.
 
 # Elastic Load Balancer
+Automatically distributes incoming application traffic across multiple resources, such as Amazon EC2 instances.  if you have multiple Amazon EC2 instances, Elastic Load Balancing distributes the workload across the multiple instances so that no single instance has to carry the bulk of it. 
 
- 
+## Low-demand period
+This means that the customer comes to the website, the less EC2 are used.
+
+## High-demand period
+More Users more EC2 like the date of result the more customers are comming the more EC2 are used.
+
+# Monolithic Applications and Microservices
+## Monolithic Applications
+Tightly coupled Components Working Together are called Monotlithic application such as a website which request from database through api and take outputs from the Devices and each application is connected to each other.
+## Microservices Applications
+The Microservices applications are loosly coupled like the modules are connected but if one module is fail, but the system always working such as in metro if the card system fail the coins are working and the system works.
+
+# Amazon Simple Notification Service (Amazon SNS)
+- publish/subscribe service
+- Will recieve notification.
+
+# Serverless Computing
+Its means that the maintaine of the servers  will done it by self, you need to upload the code to the servers.
+flexibility to scale serverless applications automatically. Serverless computing can adjust the applications' capacity by modifying the units of consumptions, such as throughput and memory. 
+
+## AWS Lambda
+- Its an service used for serverless computing
+-  run code without needing to provision or manage servers.
+-  Charges apply only when your code is running.
+![image](https://user-images.githubusercontent.com/43639867/193845388-da96a833-df53-4e99-b50c-cf139d606d7e.png)
+
+- You upload your code to Lambda. 
+
+- You set your code to trigger from an event source, such as AWS services, mobile applications, or HTTP endpoints.
+
+- Lambda runs your code only when triggered.
+
+- You pay only for the compute time that you use. In the previous example of resizing images, you would pay only for the compute time that you use when uploading new images. Uploading the images triggers Lambda to run code for the image resizing function.
+
+## Containers
+ standard way to package your application's code and dependencies into a single object. 
+ ## Amazon Elastic Container Service (Amazon ECS)
+ is a highly scalable, high-performance container management system that enables you to run and scale containerized applications on AWS. 
+Amazon ECS supports Docker containers. **Docker** is a software platform that enables you to build, test, and deploy applications quickly. AWS supports the use of open-source Docker Community Edition and subscription-based Docker Enterprise Edition. With Amazon ECS, you can use API calls to launch and stop Docker-enabled applications.
+
  
