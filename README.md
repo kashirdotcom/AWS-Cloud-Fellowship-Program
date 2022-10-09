@@ -30,6 +30,34 @@ Fellowship Program at Bytewise Limited
 
 ## 2nd Month 
 ### Week 1
-1. [Module_1 (Introduction to Amazon Web Services).md
+1. [Module_1 (Introduction to Amazon Web Services)
 ](https://github.com/kashirdotcom/AWS-Cloud-Fellowship-Program/blob/main/Month%232/aws-cloud-practitioner-essentials/Modules%5CWeeks/Module_1%20(Introduction%20to%20Amazon%20Web%20Services).md)
+
+2. [Module_2 (Compute in the Cloud)
+](https://github.com/kashirdotcom/AWS-Cloud-Fellowship-Program/blob/main/Month%232/aws-cloud-practitioner-essentials/Modules%5CWeeks/Module%23%202.md)
+
+3. [Module_3 (AWS Global Infrastructure benefits, describe Availability Zones, communicate the benefits of Amazon CloudFront and compare methods for provisioning AWS services)
+](https://github.com/kashirdotcom/AWS-Cloud-Fellowship-Program/blob/main/Month%232/aws-cloud-practitioner-essentials/Modules%5CWeeks/Module%203.md)
+
+4. [Module_4 (Networking)
+](https://github.com/kashirdotcom/AWS-Cloud-Fellowship-Program/blob/main/Month%232/aws-cloud-practitioner-essentials/Modules%5CWeeks/Module%20%23%204.md)
+
+5. [Module_5 (Storage and Databases)
+](https://github.com/kashirdotcom/AWS-Cloud-Fellowship-Program/blob/main/Month%232/aws-cloud-practitioner-essentials/Modules%5CWeeks/Module%20%23%205.md)
+
+6. [Module_6 (Security)
+](https://github.com/kashirdotcom/AWS-Cloud-Fellowship-Program/blob/main/Month%232/aws-cloud-practitioner-essentials/Modules%5CWeeks/Module%20%23%206.md)
+
+7. [Module_7 (Monitoring and Analytics)
+](https://github.com/kashirdotcom/AWS-Cloud-Fellowship-Program/blob/main/Month%232/aws-cloud-practitioner-essentials/Modules%5CWeeks/Module%20%23%207.md)
+
+8. [Module_8 (AWS Free Tier)
+](https://github.com/kashirdotcom/AWS-Cloud-Fellowship-Program/blob/main/Month%232/aws-cloud-practitioner-essentials/Modules%5CWeeks/Module%20%23%208.md)
+
+9. [Module_9 (Migration and Innovation)
+](https://github.com/kashirdotcom/AWS-Cloud-Fellowship-Program/blob/main/Month%232/aws-cloud-practitioner-essentials/Modules%5CWeeks/Module%20%23%209.md)
+
+10. [Module_10 (AWS Well-Architected Framework)
+](https://github.com/kashirdotcom/AWS-Cloud-Fellowship-Program/blob/main/Month%232/aws-cloud-practitioner-essentials/Modules%5CWeeks/Module%20%23%2010.md)
+
 
