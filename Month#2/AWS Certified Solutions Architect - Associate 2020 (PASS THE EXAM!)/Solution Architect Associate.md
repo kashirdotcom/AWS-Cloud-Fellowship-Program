@@ -318,6 +318,32 @@ size of 160 GB
 - Dense Storage (clusters of data)
 
 ## Masively Parallel Processing
+Automatic Distributes Data and query across all nodes.
+Maintaing Fast Query Performance
+
+## Redshift Backups
+enabled by default with a 1 day retention period
+upto 35 days modification
+
+maintain 3 copies of the data
+- orignal copy
+- replica on the compute nodes
+- backup copy in S3
+
+## Compute Node Hours
+1 unit per node, per hour
+not charged for leader node hours,
+billed for only tranfers within a VPN, not outside it
+
+## Redshift Security
+Encrypted using SSL (AES-256)
+Redshift is the Single AZ
+
+## DynamoDB
+- Key Value and Document Database(NOSQL)
+- consistant read and writes
+- 
+
 
 
 
