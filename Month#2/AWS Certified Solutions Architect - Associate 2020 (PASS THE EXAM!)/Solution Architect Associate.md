@@ -249,4 +249,83 @@ Distribute network traffic to improve application scalability.
 - easily shrink and pay per GB per month
 ## Elastic Block Store EBS
 - Virtual Harddrive
-- 
+- Backup via Snapshots
+- Easy Encryption
+
+- IOPS
+    - Input/Output Per Secound
+    - non-contigueous reads and writes
+
+- Throughput
+    - data transfer rate from the storage
+   ## Types of EBS
+   - General Purpose gp2-use for workloads-upto 16TB-16000 IPOS 
+   - Provisioned IOPS io1 - use for large database-upt 16 TB - 64000  
+   - Throughput Otimized HDD
+   - Cold HDD
+   - EBS Mangentic 
+   
+   ## EBS Moiving Values
+    - take the snapshot of the volume
+    - create an AMI from the snapshot
+    - launch two EC2 Instance in desired AZ.
+    
+    ## EBS VS INstance Store Volumes
+    1. EBS are durable, while Instance store is temporary
+    2. EBS are created from EBS Snapshot while Instance Store is created from template stored in S3.
+    
+    
+    ## Introduction to Cloud Front
+    ### Contenet Delivery Network
+    - distributed Network of servers which deliver web pages
+    - used to deliver an entire website
+    - request for content from nearest location for the best possible performance.
+   ### Core Components of Cloud Front
+   - Origin (where all the orignal files are located)
+   - Edge Location (web content will be cached
+   - Distribution (where cached content should behave)- replicates copies based on PriceClass
+
+### Types of Distributions
+- WEB (for website)
+- RTMP (for streaming media)
+
+## CloudFront - Lambda@Edge
+- overrides the behaviour of request and responses
+- Four Functions
+   - Viewver Request - Cloudfront recieves a request from a viewer
+   - Origin Request - cloudfront forwards a request to the origin
+   - Origin Response - cloudfront recieves a response from the origin
+   - Viewer Response -   cloudfront returns the response to the viewver.
+## CloudFront - Protection
+by default distribution allows everyone to have access.
+### Orignal Identity 
+Virtual User Identity that will be used to give your cloudfront distribution permsiion to fetch a private object.
+In order to use Signal URLs  or signed cookies (passed along with the request to CloudFront.
+
+## Data Warehouse
+Data Warehouse is the online analytical Processing, store large amount quantities.
+Example is AWS Redshift, petabyte scale solution
+## Redshift
+Redshift is the coloumnar storage database(optimizing analytical query performance, reduces the overall disk I/O requirements and reduce the amount of data.
+### Redshift Single Node
+size of 160 GB
+### Redshift Multinode
+- Leader Node (manages client connection)
+- compute Node (stores data and performs)
+
+## Types of Nodes
+- Dense Compute (less storage with high performance)
+- Dense Storage (clusters of data)
+
+## Masively Parallel Processing
+
+
+
+
+
+
+
+    
+   
+   
+    
