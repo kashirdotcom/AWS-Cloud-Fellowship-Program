@@ -29,7 +29,7 @@ Fellowship Program at Bytewise Limited
 6. [Global Networking in AWS &  Subnets and Network Access Control list in general and in context with AWS](https://github.com/kashirdotcom/AWS-Cloud-Fellowship-Program/blob/main/Month%231/Week%234/Global%20Networking%20in%20AWS.md)
 
 ## 2nd Month 
-### Week 1
+### Week 1 + 2
 1. [Module_1 (Introduction to Amazon Web Services)
 ](https://github.com/kashirdotcom/AWS-Cloud-Fellowship-Program/blob/main/Month%232/aws-cloud-practitioner-essentials/Modules%5CWeeks/Module_1%20(Introduction%20to%20Amazon%20Web%20Services).md)
 
@@ -61,3 +61,14 @@ Fellowship Program at Bytewise Limited
 ](https://github.com/kashirdotcom/AWS-Cloud-Fellowship-Program/blob/main/Month%232/aws-cloud-practitioner-essentials/Modules%5CWeeks/Module%20%23%2010.md)
 
 
+### Week 3 + 4
+1. [ AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!)
+](https://github.com/kashirdotcom/AWS-Cloud-Fellowship-Program/blob/main/Month%232/AWS%20Certified%20Solutions%20Architect%20-%20Associate%202020%20(PASS%20THE%20EXAM!)/Solution%20Architect%20Associate.md)
+
+2.[ Cloud Solutions
+](https://github.com/kashirdotcom/AWS-Cloud-Fellowship-Program/blob/main/Month%232/Cloud%20Solutions.md) 
+
+## 3rd Month
+### Week 1
+1. [ Use Case For Deploying the Application
+](https://github.com/kashirdotcom/AWS-Cloud-Fellowship-Program/blob/main/Month%233/Use%20Case%20For%20Deploying%20the%20Application.md)
